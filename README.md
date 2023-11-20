@@ -6,10 +6,10 @@ The game will implement ray tracing to handle shadows, reflections, and refracti
 
 Group Members:
 
-145148- Muiyuro, Andrew Muchiri
-136609- Trudeau Okech 
-123037- Steve Makau
-- Ryan Sila
+Muiyuro, Andrew Muchiri- 145148 
+Trudeau Okech- 136609
+Steve Makau- 123037
+Ryan Sila
 
 
 
